@@ -170,5 +170,5 @@ Melalui project ini, konsep blockchain seperti Genesis Block, hashing, previous 
 
 
 ### H. Hasil 
-![alt text](<Cuplikan layar 2026-09-28 142509.png>)
-![alt text](image.png)
+<img width="1917" height="935" alt="Cuplikan layar 2026-09-28 142509" src="https://github.com/user-attachments/assets/bb891e52-cbe5-441f-8036-d0eb1b2fedb6" />
+<img width="1917" height="927" alt="Cuplikan layar 2026-09-28 142525" src="https://github.com/user-attachments/assets/a8938a90-88af-4c86-86ee-6bfdec86fc41" />
