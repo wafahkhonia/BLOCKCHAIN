@@ -29,7 +29,8 @@ Buat file kedua bernama app.py di dalam folder yang sama. File ini akan mengimpo
 core.py dan merendernya di web browser.
 
 
-![alt text](image.png)
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/1409b480-b57a-4337-b50d-5661acb4d157" />
+
 
 #### Cara Menjalankan Aplikasi:
 Buka terminal, pastikan berada di folder yang sama dengan kedua file di atas, lalu jalankan
