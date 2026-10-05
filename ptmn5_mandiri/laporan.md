@@ -3,8 +3,7 @@
 
 ---
 
-**Mata Kuliah:** Blockchain  
-**Dosen Pengampu:** [Nama Dosen, S.Kom., M.T.]  
+**Mata Kuliah:** Blockchain   
 **Kelas:** 3 INF D  
 
 ---
@@ -71,5 +70,5 @@ Dengan Streamlit, pengguna dapat berinteraksi langsung, menambahkan data, meliha
 ---
 
 ### H. Dokumentasi Hasil
-![alt text](screenshot_mining.png)  
-![alt text](screenshot_ledger.png)
+<img width="1917" height="1062" alt="image" src="https://github.com/user-attachments/assets/374baf17-6847-41c4-9efe-b73131165d98" />
+
