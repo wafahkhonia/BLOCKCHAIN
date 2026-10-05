@@ -128,7 +128,5 @@ Penggunaan Streamlit membuat proses interaksi dengan blockchain menjadi lebih in
 ---
 
 ### H. HASIL IMPLEMENTASI (TAMPILAN APLIKASI)
-
-![ssan hasil bawah.png](ssan hasil bawah.png)
-
-![ssan hasil.png](ssan hasil.png)
+<img width="1600" height="756" alt="WhatsApp Image 2026-10-05 at 12 25 04" src="https://github.com/user-attachments/assets/b975b57b-41d8-4dbe-a018-0ea97bd6c1e5" />
+<img width="1600" height="769" alt="WhatsApp Image 2026-10-05 at 12 25 04 (1)" src="https://github.com/user-attachments/assets/0906fdf7-c4fc-4224-b764-2e120509bc8b" />
