@@ -92,25 +92,25 @@ contract SupplyChainKopi {
 ### 1. Autentikasi dan Lingkungan Kerja Remix IDE
 Membuka halaman [Remix IDE](https://remix.ethereum.org/) dan melakukan autentikasi *login* menggunakan akun Google (Gmail) untuk menyimpan workspace.
 
-![Login Remix IDE](login email-1.png)  
+<img width="1433" height="637" alt="image" src="https://github.com/user-attachments/assets/04b56304-f51b-48fe-8e67-4df4f8410407" />
 *Gambar 1: Tampilan konfirmasi login ke Remix IDE.*
 
 ### 2. Pembuatan File dan Penulisan Kode
 Pada panel **File Explorer** sebelah kiri, buat file baru bernama `SupplyChainKopi.sol` di dalam folder `contracts`, lalu ketik/tempel kode program Solidity di atas.
 
-![Penulisan Kode](image.png)  
+<img width="1335" height="643" alt="image" src="https://github.com/user-attachments/assets/42990d34-b8f5-4b84-89e8-aef56592231c" />
 *Gambar 2: Pembuatan file SupplyChainKopi.sol dan penulisan kode Solidity pada editor.*
 
 ### 3. Kompilasi Kode (Compile)
 Buka tab **Solidity Compiler** pada menu navigasi sebelah kiri. Pilih versi *compiler* `0.8.20` (sesuai `pragma`), lalu klik tombol **Compile SupplyChainKopi.sol**. Indikator centang hijau menandakan kode berhasil dikompilasi tanpa *error*.
 
-![Kompilasi Kode](compile-1.png)  
+<img width="1217" height="542" alt="image" src="https://github.com/user-attachments/assets/8bc42afe-7391-4df9-acac-97cd3ac7f22b" /> 
 *Gambar 3: Proses kompilasi Smart Contract yang berhasil.*
 
 ### 4. Penyebaran Smart Contract (Deploy)
 Buka tab **Deploy & Run Transactions**. Pastikan *Environment* teratur pada **Remix VM (Cancun/Shanghai)**. Pilih *Contract* `SupplyChainKopi`, lalu tekan tombol **Deploy**.
 
-![Deploy Contract](deploy +nama-1.png)  
+<img width="1237" height="598" alt="image" src="https://github.com/user-attachments/assets/45b17c43-5400-4db8-bb4f-b2463a58af5d" /> 
 *Gambar 4: Eksekusi Deploy Smart Contract ke lingkungan simulasi Remix VM.*
 
 ---
