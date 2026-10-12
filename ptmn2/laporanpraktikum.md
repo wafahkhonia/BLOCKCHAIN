@@ -225,7 +225,11 @@ st.download_button(
 ## BAB IV: HASIL DAN TAMPILAN APLIKASI
 
 Berikut adalah tangkapan layar antarmuka dari aplikasi CV Digital Mahasiswa yang telah dijalankan:
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/d0774099-0b86-4514-802b-97a0218ac0cd" />
 
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/ec759bb7-25d3-4219-a231-aa1d7a9368a5" />
+
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/db57a29b-5076-490c-9155-be0d49ae487d" />
 
 
 ---
